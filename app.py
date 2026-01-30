@@ -22,7 +22,7 @@ def load_model():
 model = load_model()
 
 # --- UI INTERFACE ---
-st.title("🌸 Iris Species Predictor")
+st.title("🔮 Iris Species Predictor")
 st.markdown("""
 This app uses a **Logistic Regression** model to predict the species of an Iris flower 
 based on its physical measurements.
